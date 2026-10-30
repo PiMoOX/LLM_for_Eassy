@@ -7,7 +7,7 @@ Persian essay generation with a multi-agent reflection workflow, built with Jupy
 1. **Draft agent** writes an essay on a topic you provide.
 2. **Reflection agent** critiques the draft (structure, clarity, argument, style).
 3. **Revision agent** rewrites the essay by addressing the critique.
-4. **Interactive refinement**: you can then give your own instructions to refine the essay further (type `done` to finish, `undo` to go back one version).
+4. **Interactive refinement**: you can then give your own instructions to refine the essay further (press "Enter"` to finish, `undo` to go back one version).
 
 ## Setup
 
